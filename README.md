@@ -1,7 +1,7 @@
 # TypeScript State Machine (typescript-fsm)
 
 [![Build Status](https://app.travis-ci.com/eram/typescript-fsm.svg?branch=master)](https://app.travis-ci.com/github/eram/typescript-fsm)
-[![npm package](https://img.shields.io/npm/v/typescript-fsm.svg?logo=nodedotjs)](https://www.npmjs.com/package/typescript-fsm)
+[![npm package](https://img.shields.io/npm/v/typescript-fsm.svg?logo=nodedotjs&color=00a400)](https://www.npmjs.com/package/typescript-fsm)
 <img src="https://img.shields.io/badge/winter-is%20coming-5593c8" alt="It's already here!" height="20"/>
 
 Finite state machines are useful for modeling complicated flows and keeping track of state. TS-FSM is a strongly typed finite state machine for TypeScript that is using promises for async operations.
